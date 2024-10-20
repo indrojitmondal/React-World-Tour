@@ -3,3 +3,6 @@
     padding: 15px;
     border-radius: 15px;
 }
+.visited{
+    background-color: green;
+}
